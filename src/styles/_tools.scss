@@ -10,7 +10,7 @@
   }
 }
 
-.user-projects {
+.user-tools {
   margin: 20px auto;
   img {
     max-width: 100%;
@@ -29,21 +29,21 @@
   }
 }
 
-.contents {
+.contents-tools {
   @media only screen and (min-width: $cut) {
     margin-left: 0;
     width: 48%;
   }
 }
 
-.contents-right {
+.contents-tools-right {
   @media only screen and (min-width: $cut) {
     float: right;
     margin-top: -5%;
     width: 48%;
   }
 }
-.images-right {
+.images-tools-right {
   @media only screen and (min-width: $cut) {
     float: right;
     width: 48%;
@@ -55,7 +55,7 @@
   }
 }
 
-.images-left {
+.images-tools-left {
   @media only screen and (min-width: $cut) {
     float: left;
     width: 48%;
@@ -67,7 +67,7 @@
   }
 }
 
-.project-link {
+.project-tools-link {
   display: inline-block;
   margin: 10px 0px;
   padding: 5px;

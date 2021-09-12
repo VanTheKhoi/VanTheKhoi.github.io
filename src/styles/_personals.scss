@@ -29,21 +29,21 @@
   }
 }
 
-.contents {
+.contents-personals {
   @media only screen and (min-width: $cut) {
     margin-left: 0;
     width: 48%;
   }
 }
 
-.contents-right {
+.contents-right-personals {
   @media only screen and (min-width: $cut) {
     float: right;
     margin-top: -5%;
     width: 48%;
   }
 }
-.images-right {
+.images-right-personals {
   @media only screen and (min-width: $cut) {
     float: right;
     width: 48%;
@@ -55,7 +55,7 @@
   }
 }
 
-.images-left {
+.images-left-personals {
   @media only screen and (min-width: $cut) {
     float: left;
     width: 48%;
